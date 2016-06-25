@@ -1,0 +1,360 @@
+<parameters>
+    <index>/home/eric/桌面/school/WSM/project2/index_stemmer_yes_porter</index>
+    <count>1000</count>
+    <trecFormat>true</trecFormat>
+    <queryOffset>1</queryOffset>
+    <stopper>./stoplist.dft</stopper>
+	<rule>method:linear,lambda:0.8</rule>
+    <runID>Exp</runID>
+
+    <query>
+      <type>indri</type>
+      <number>401</number>
+      <text>
+         foreign minorities Germany 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>402</number>
+      <text>
+         behavioral genetics 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>403</number>
+      <text>
+         osteoporosis 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>404</number>
+      <text>
+         Ireland peace talks 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>405</number>
+      <text>
+         cosmic events 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>406</number>
+      <text>
+         Parkinson disease 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>407</number>
+      <text>
+         poaching wildlife preserves 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>408</number>
+      <text>
+         tropical storms 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>409</number>
+      <text>
+         legal Pan Am 103 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>410</number>
+      <text>
+         Schengen agreement 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>411</number>
+      <text>
+         salvaging shipwreck treasure 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>412</number>
+      <text>
+         airport security 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>413</number>
+      <text>
+         steel production 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>414</number>
+      <text>
+         Cuba sugar exports 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>415</number>
+      <text>
+         drugs Golden Triangle 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>416</number>
+      <text>
+         Three Gorges Project 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>417</number>
+      <text>
+         creativity 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>418</number>
+      <text>
+         quilts income 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>419</number>
+      <text>
+         recycle automobile tires 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>420</number>
+      <text>
+         carbon monoxide poisoning 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>421</number>
+      <text>
+         industrial waste disposal 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>422</number>
+      <text>
+         art stolen forged 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>423</number>
+      <text>
+         Milosevic Mirjana Markovic 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>424</number>
+      <text>
+         suicides 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>425</number>
+      <text>
+         counterfeiting money 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>426</number>
+      <text>
+         law enforcement dogs 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>427</number>
+      <text>
+         UV damage eyes 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>428</number>
+      <text>
+         declining birth rates 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>429</number>
+      <text>
+         Legionnaires disease 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>430</number>
+      <text>
+         killer bee attacks 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>431</number>
+      <text>
+         robotic technology 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>432</number>
+      <text>
+         profiling motorists police 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>433</number>
+      <text>
+         Greek philosophy stoicism 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>434</number>
+      <text>
+         Estonia economy 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>435</number>
+      <text>
+         curbing population growth 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>436</number>
+      <text>
+         railway accidents 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>437</number>
+      <text>
+         deregulation gas electric 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>438</number>
+      <text>
+         tourism increase 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>439</number>
+      <text>
+         inventions scientific discoveries 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>440</number>
+      <text>
+         child labor 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>441</number>
+      <text>
+         Lyme disease 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>442</number>
+      <text>
+         heroic acts 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>443</number>
+      <text>
+         US investment Africa 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>444</number>
+      <text>
+         supercritical fluids 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>445</number>
+      <text>
+         women clergy 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>446</number>
+      <text>
+         tourists violence 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>447</number>
+      <text>
+         Stirling engine 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>448</number>
+      <text>
+         ship losses 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>449</number>
+      <text>
+         antibiotics ineffectiveness 
+      </text>
+    </query>
+    <query>
+      <type>indri</type>
+      <number>450</number>
+      <text>
+         King Hussein peace 
+      </text>
+    </query>
+</parameters>

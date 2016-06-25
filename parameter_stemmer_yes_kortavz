@@ -1,0 +1,12 @@
+<parameters>
+	<index>/home/eric/桌面/school/WSM/project2/index_stemmer_yes_korvatz/</index>
+
+	<corpus>
+		<path>/home/eric/桌面/school/WSM/project2/corpus/WT2G</path>
+		<class>trecweb</class>
+	</corpus>
+
+	<stemmer>
+		<name>korvatz</name>
+	</stemmer>
+</parameters>

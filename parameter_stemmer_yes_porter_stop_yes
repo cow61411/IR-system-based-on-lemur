@@ -1,0 +1,12 @@
+<parameters>
+	<index>/home/eric/桌面/school/WSM/final_project/index/</index>
+
+	<corpus>
+		<path>/home/eric/桌面/school/WSM/final_project/corpus</path>
+		<class>txt</class>
+	</corpus>
+
+	<stemmer>
+		<name>porter</name>
+	</stemmer>
+</parameters>
